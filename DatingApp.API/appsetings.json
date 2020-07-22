@@ -1,6 +1,6 @@
 {
     "AppSettings": {
-      "Token": "super secret key"
+      "Token": "supersecretkey"
     },
     "ConnectionStrings": {
       "DefaultConnection": "Data Source=datingapp.db"
@@ -14,9 +14,9 @@
     },
     "AllowedHosts": "*",
     "CloudinarySettings": {
-        "CloudName": "",
-        "ApiKey": "",
-        "ApiSecret": ""
+        "CloudName": "dx4jolqtk",
+        "ApiKey": "184852848789796",
+        "ApiSecret": "zv2mv0yafVH6cg6z5EInwG8bI6A"
     }
   }
   
